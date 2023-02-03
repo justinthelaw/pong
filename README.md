@@ -1,6 +1,6 @@
 # Pong
 
-This game development exercise was adapted form HarvardX's CS50g. Some of the base game elements were taken from Matthias Richter's original pong game. Addition of the collision physics, ball and block elements, "AI", and actual user interfaces were developed by me.
+This game development exercise was adapted from HarvardX's CS50g. Some of the base game elements were taken from Matthias Richter and Colton Ogden's original pong game. Addition of the collision physics, ball and block elements, "AI", and actual user interfaces were developed by me.
 
 ## Pong "AI"
 
