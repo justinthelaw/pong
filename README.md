@@ -1,6 +1,6 @@
 # Pong
 
-This game development exercise was adapted from HarvardX's CS50g. Some of the base game elements were taken from base elements credited to the individual authors within each file. Addition of the collision physics, ball and block elements, "AI", and actual user interfaces were developed by me.
+This game development exercise was adapted from HarvardX's CS50g. Some of the base game elements were taken from classes written by the individual authors within each file. Addition of the collision physics, ball and block elements, "AI", and actual user interfaces were developed by me.
 
 ## Pong "AI"
 
